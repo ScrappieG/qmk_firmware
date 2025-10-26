@@ -1,5 +1,7 @@
-#include "stone_dactyl.h"
 #include QMK_KEYBOARD_H
+
+// Basic one-layer keymap for testing matrix wiring.
+// Every key outputs a different character so you can verify all switches.
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(

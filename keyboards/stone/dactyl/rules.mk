@@ -4,4 +4,4 @@ BOOTLOADER = caterina
 SPLIT_KEYBOARD = yes
 CONSOLE_ENABLE = yes
 VIA_ENABLE = yes
-VIAL_ENABLE = yes      # if using Vial
+#VIAL_ENABLE = yes      # if using Vial
