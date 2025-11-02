@@ -1,0 +1,16 @@
+{
+    "keyboard_name": "Scrappiedactyl",
+    "manufacturer": "Jack Stone",
+    "maintainer": "ScrappieG",
+    "diode_direction": "COL2ROW",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "1.0.0"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": []
+        }
+    }
+}

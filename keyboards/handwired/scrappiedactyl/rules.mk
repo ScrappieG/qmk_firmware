@@ -1,8 +1,5 @@
 MCU = atmega32u4
 BOOTLOADER = caterina
-
-LAYOUTS = LAYOUT
 SPLIT_KEYBOARD = yes
 CONSOLE_ENABLE = yes
-VIA_ENABLE = yes
-#VIAL_ENABLE = yes      # if using Vial
+LAYOUTS = LAYOUT
