@@ -4,8 +4,8 @@
   "maintainer": "ScrappieG",
 
   "usb": {
-    "vid": "0xFEED",
-    "pid": "0x0000",
+    "vid": "0x5354",
+    "pid": "0x4443",
     "device_version": "1.0.0"
   },
 
