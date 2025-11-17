@@ -22,10 +22,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_LSFT, KC_Z,    KC_X,    KC_C,    KC_V,    KC_B,       KC_N,    KC_M,    KC_COMM, KC_DOT,  KC_SLSH, KC_RSFT,
 
     // Row 4 (12 keys: 6 left + 6 right)
-    KC_LCTL, KC_RGUI, KC_LALT, KC_LGUI, KC_SPC, KC_ENT,   KC_BSPC, KC_SPC,  KC_RGUI, KC_RALT, KC_RGUI, KC_RCTL,
+    KC_LCTL, KC_RGUI, KC_EQL, KC_MINS, KC_LBRC, KC_ENT,   KC_ENT, KC_RBRC,  KC_RGUI, KC_RALT, KC_RGUI, KC_RCTL,
 
     // Row 5 (8 keys: 4 left + 4 right)
-    KC_LBRC,  KC_MINS, KC_SPC,  KC_EQL,                      KC_RBRC, KC_ENT, KC_DOWN, KC_UP,
+    KC_TAB,  KC_MINS, KC_SPC,  KC_LALT,                  KC_ENT, KC_BSPC, KC_RALT, KC_RGUI,
 
     // Row 6 (6 keys: 3 left + 3 right)
     MO(_LOWER),  KC_LSFT, KC_LCTL,                          MO(_RAISE), KC_RSFT, KC_RCTL
